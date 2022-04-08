@@ -41,25 +41,24 @@ header h1 {
     
     .nav a:link {
         color:white;
-      }
+        }
     
       /* visited link */
     .nav a:visited {
         color: white;
-      }
+        }
       
       /* mouse over link */
     .nav a:hover {
         color: hwhite;
-      }
+        }
       
       /* selected link */
     .nav a:active {
         color: white;
-      }
+        }
 
 .nav-list {
-    font-style: normal;
     font-size: 1.2em;
     list-style: none;
     margin-right: 30px;
