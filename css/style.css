@@ -9,7 +9,7 @@ body{
     width: 1000px;
     margin: 0px auto;
     font-size: 1em;
-    background-image: linear-gradient(to bottom, #fffad8, #fffbcd, #fffbc2, #fffcb8, #fefdad, #f7fdab, #f0fda9, #e8fda7, #dbfaad, #cff7b4, #c5f4ba, #bcf0c0);
+    background-color:  #fffad8;
     }
 
 header {
